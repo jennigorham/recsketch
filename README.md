@@ -3,7 +3,7 @@ Drawing program I use on linux when recording youtube videos. See for example [t
 
 ## Requirements
 
-Python, cairo bindings for GObject (`sudo apt install python-gi-cairo`), ffmpeg if you want to use screen recording.
+Python, cairo bindings for GObject (see https://pygobject.readthedocs.io/en/latest/getting_started.html), ffmpeg if you want to use screen recording.
 
 ## Usage
 
